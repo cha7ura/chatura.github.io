@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /chatura.github.io
+exclude: ['README.md']
